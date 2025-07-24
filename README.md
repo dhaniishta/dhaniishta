@@ -1,42 +1,25 @@
 ## About Me
 
 Hi, I'm **Dhanishta Jaggi**, a final-year Computer Engineering student passionate about building intelligent systems that make life easier.
-
 **Tech Focus**  
 Machine Learning, Deep Learning, Explainable AI (XAI), Natural Language Processing, Generative AI, Agentic AI, Data Visualization, MLOps
 
 ---
 
-## Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhanishta-jaggi)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dhanishtajaggi@gmail.com)
-
----
-
 ## Tech Stack
 
-![C](https://img.shields.io/badge/C-444C56?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-444C56?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-444C56?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-444C56?style=flat&logo=r&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-444C56?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-444C56?style=flat&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-444C56?style=flat&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-444C56?style=flat&logo=keras&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-444C56?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-444C56?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-444C56?style=flat&logo=matplotlib&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-444C56?style=flat&logo=plotly&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-444C56?style=flat&logo=mlflow&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-444C56?style=flat&logo=streamlit&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-444C56?style=flat&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-444C56?style=flat&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-444C56?style=flat&logo=canva&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-444C56?style=flat&logo=notion&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-444C56?style=flat&logo=powerbi&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-444C56?style=flat&logo=adobe%20photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-444C56?style=flat&logo=adobe%20illustrator&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="border:2px solid #2fbb4f;"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" style="border:2px solid #2fbb4f;"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" style="border:2px solid #2fbb4f;"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" style="border:2px solid #2fbb4f;"/>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white" style="border:2px solid #2fbb4f;"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black" style="border:2px solid #2fbb4f;"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" style="border:2px solid #2fbb4f;"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="border:2px solid #2fbb4f;"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="border:2px solid #2fbb4f;"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="border:2px solid #2fbb4f;"/>
+</p>
 
 ---
 
