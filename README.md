@@ -34,8 +34,4 @@ Machine Learning, Deep Learning, Explainable AI (XAI), Natural Language Processi
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhaniishta&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false" height="150"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=dhaniishta&theme=github_dark&hide_border=false" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhaniishta&theme=github_dark&hide_border=false&layout=compact" height="150"/>
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dhaniishta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="150" alt="GitHub stats"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhaniishta&theme=tokyonight" height="150" alt="GitHub streak"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhaniishta&layout=compact&theme=tokyonight" height="150" alt="Top languages"/> </p>
